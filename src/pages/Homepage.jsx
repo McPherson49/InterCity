@@ -12,8 +12,8 @@ const Homepage = () => {
         <Hero />
         <Compare />
         <TravelTips />
+        <Footer />
       </div>
-      <Footer />
     </div>
   );
 };
